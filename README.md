@@ -13,11 +13,7 @@
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-  <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"_blank"></a> 
-  <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
     <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"_blank"></a> 
-    <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> 
-  <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
   <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>

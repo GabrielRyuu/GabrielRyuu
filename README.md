@@ -1,65 +1,49 @@
-
-<!--  portfolio em breve  -->
+<!-- portfolio em breve -->
 <p align="center">
- 
-<!-- </p align="center">
-<img src="https://cdn.discordapp.com/attachments/596677178343817236/1049104515846115368/githubanner.jpg" /> -->
+   <h2>Olá! Sou Gabriel, estagiário de Análise de Sistemas 💻</h2>
+   <p align="center">
+      Estou em busca de aprimorar minhas habilidades e contribuir com soluções tecnológicas que resolvam problemas de negócio. Atualmente, atuo como estagiário em Análise de Sistemas, com experiência prática em bancos de dados (SQL e NoSQL), desenvolvimento de APIs, e análise de dados com Python e Power BI.
+   </p>
 
+   <h2>Stack de Tecnologia</h2>
+   <p align="center">
+      <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"_blank"></a> 
+      <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+      <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="https://www.microsoft.com/en-us/power-bi" target="_blank"><img src="https://img.shields.io/badge/PowerBI-6AB5F7?style=for-the-badge&logo=powerbi&logoColor=white"></a>
+      <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+      <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.trello.com" target="_blank"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"></a>
+      <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>
+   </p>
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+   <h2>Contato</h2>
+   <p align="center">
+      <a href="https://linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="mailto:gcortesteixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+   </p>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+   <h2>Minha jornada como Estagiário</h2>
+   <p align="center">
+      Atualmente, como estagiário de Análise de Sistemas, contribuo com a modelagem de processos e sistemas, levantamento de requisitos, análise de dados e integração de APIs. Estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento para oferecer soluções mais eficientes.
+   </p>
 
-<p align="center">
-    <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"_blank"></a> 
-  <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
-  <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
- <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
- <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
- <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
- <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+   <h2>Github Stats</h2>
+   <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielRyuu&show_icons=true&theme=radical&line_height=27">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRyuu&layout=compact&langs_count=7&theme=radical"/>
+   </p>
+
+   <p align="center">
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRyuu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+   </p>
+
+   <p align="center">
+      <img src="https://activity-graph.herokuapp.com/graph?username=GabrielRyuu&theme=radical">
+   </p> 
+
+   <hr>
+   <p align="center">Se gostou, me siga e dê uma estrela ⭐</p>
 </p>
-
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-  <a href="https://instagram.com/gabriel.corteez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gcortesteixeira@gmail.com
-"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-</a>
-</p>
-
-
-<h2 align="center">
-   <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/eoLucasS/eoLucasS/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=GabrielRyuu&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRyuu&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRyuu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
-<hr>
-<p align="center">If you liked it, give me a follow and star ⭐</p>

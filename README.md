@@ -27,7 +27,7 @@
 
    <h2>Minha jornada como Estagiário</h2>
    <p align="center">
-      Atualmente, como estagiário de Análise de Sistemas, contribuo com a modelagem de processos e sistemas, levantamento de requisitos, análise de dados e integração de APIs. Estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento para oferecer soluções mais eficientes.
+      Atualmente, como Analista de Sistemas, contribuo com a modelagem de processos e sistemas, levantamento de requisitos, análise de dados e integração de APIs. Estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento para oferecer soluções mais eficientes.
    </p>
 
    <h2>Github Stats</h2>

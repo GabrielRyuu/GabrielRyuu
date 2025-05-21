@@ -1,8 +1,8 @@
 <!-- portfolio em breve -->
 <p align="center">
-   <h2>Olá! Sou Gabriel, estagiário de Análise de Sistemas 💻</h2>
+   <h2>Olá! Sou Gabriel, Analista de Sistemas 💻</h2>
    <p align="center">
-      Estou em busca de aprimorar minhas habilidades e contribuir com soluções tecnológicas que resolvam problemas de negócio. Atualmente, atuo como estagiário em Análise de Sistemas, com experiência prática em bancos de dados (SQL e NoSQL), desenvolvimento de APIs, e análise de dados com Python e Power BI.
+      Estou em busca de aprimorar minhas habilidades e contribuir com soluções tecnológicas que resolvam problemas de negócio. Atualmente, atuo como Analista de Sistemas, com experiência prática em bancos de dados (SQL e NoSQL), desenvolvimento de APIs, e análise de dados com Python e Power BI.
    </p>
 
    <h2>Stack de Tecnologia</h2>

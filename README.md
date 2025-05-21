@@ -25,7 +25,7 @@
       <a href="https://github.com/GabrielRyuu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    </p>
 
-   <h2>Minha jornada como Estagiário</h2>
+   <h2>Minha jornada</h2>
    <p align="center">
       Atualmente, como Analista de Sistemas, contribuo com a modelagem de processos e sistemas, levantamento de requisitos, análise de dados e integração de APIs. Estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento para oferecer soluções mais eficientes.
    </p>
